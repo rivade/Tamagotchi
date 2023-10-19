@@ -1,0 +1,14 @@
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\bin\Debug\net7.0\RepetitionProg2.exe
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\bin\Debug\net7.0\RepetitionProg2.deps.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\bin\Debug\net7.0\RepetitionProg2.runtimeconfig.json
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\bin\Debug\net7.0\RepetitionProg2.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\bin\Debug\net7.0\RepetitionProg2.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.AssemblyInfoInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.AssemblyInfo.cs
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.csproj.CoreCompileInputs.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\refint\RepetitionProg2.dll
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.pdb
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\RepetitionProg2.genruntimeconfig.cache
+C:\Users\theo.lindqvist\Documents\NTI Programmering\RepetitionProg2\RepetitionProg2\obj\Debug\net7.0\ref\RepetitionProg2.dll
